@@ -32,3 +32,9 @@ A simple 2D **Super Mario-style** platformer built with **C++** and **SFML**, re
 ```bash
 git clone https://github.com/yourusername/super-mario-sfml.git
 cd super-mario-sfml
+
+🎮 Controls
+Key	Action
+← →	Move Mario
+Space	Jump
+R	Restart game
